@@ -66,5 +66,6 @@ namespace TailSpin.SpaceGame.Web
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+        
     }
 }
